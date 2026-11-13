@@ -1,4 +1,3 @@
-# Digital-Advertising-Budget-Optimizer
 # Digital Advertising Budget Optimizer
 
 **A Python-based project for analyzing digital advertising campaigns, evaluating marketing performance, and recommending an optimized advertising budget allocation across multiple platforms.**
